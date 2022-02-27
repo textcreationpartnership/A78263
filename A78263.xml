@@ -1,0 +1,473 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the orphans and creditors of the city of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78263</idno>
+            <idno type="STC">Wing C1120</idno>
+            <idno type="STC">ESTC R231175</idno>
+            <idno type="EEBO-CITATION">99896997</idno>
+            <idno type="PROQUEST">99896997</idno>
+            <idno type="VID">136908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2455:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the orphans and creditors of the city of London</title>
+                  <author>Reading, Nathaniel, d. ca. 1712.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debtor and creditor --  England --  London --  Early works to 1800.</term>
+               <term>Orphans --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:136908:1" rendition="simple:additions"/>
+            <head>THE CASE OF THE Orphans and Creditors OF THE CITY of LONDON.</head>
+            <p>MR. <hi>John Dowſe</hi> and the reſt of the Orphans, who by the Favour of the Right Honourable the Lord Chancellor, preſented their Humble Addreſs to His Majeſty at <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> and were moſt Graciouſly Received: Attended at <hi>Guild-Hall</hi> the 29th. of <hi>October</hi> laſt to preſent the Petition following; but through the Favour of His Majeſties Vice-Chamberlain, it was that Evening preſented to His Majeſty at <hi>Whitehall:</hi> And He Graci<g ref="char:EOLhyphen"/>ouſly Accepted it, and directed the ſaid Mr. <hi>Dowſe</hi> to read It.</p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To the KINGS moſt Excellent Majeſty.</head>
+                  <head type="sub">The Humble Petition of about <hi>1400.</hi> Poor Orphans within Your City of <hi>London.</hi>
+                  </head>
+                  <opener>SHEWETH,</opener>
+                  <p>THat Your Petitioners withall Humility of Gratitude acknow<g ref="char:EOLhyphen"/>ledge the great Obligations they are under to Your Sacred Ma<g ref="char:EOLhyphen"/>jeſty, for the Royal Expreſſions You have Graciouſly, and ſo often been pleas'd to make of Your Compaſſionate Reſentments of their De<g ref="char:EOLhyphen"/>plorable Condition, and for the Renowned Charity you have already begun to extend towards ſome of them.</p>
+                  <p>
+                     <pb facs="tcp:136908:2"/>That Your Petitioners have treated with <hi>Nathaniel Reading</hi> 
+                     <abbr>Eſq</abbr> con<g ref="char:EOLhyphen"/>cerning ſeveral Propoſals which he had humbly to make to Your Ma<g ref="char:EOLhyphen"/>jeſty for payment of the Reſpective Summes due to us: And Your Peti<g ref="char:EOLhyphen"/>tioners humbly hope that the ſame will meet with your Royal Appro<g ref="char:EOLhyphen"/>bation and Eſtabliſhment.</p>
+                  <p>For as much that nothing can contribute more to the Immenſeneſs of that Glory which Your Majeſty hath acquired, ſince the Bleſſing we have had of Your being our Soveraign; Than Your being the <hi>Father of the Fatherleſs</hi> in Your continued Imitation of our Heavenly Father.</p>
+                  <p>
+                     <hi>Your Petitioners in all Submiſſive and Avow'd Obedience proſtrate and be<g ref="char:EOLhyphen"/>ſeech Your Benigne Conſideration of the ſaid</hi> Propoſals: <hi>And if Your Majeſty approve of them, that they may be Eſtabliſh'd and purſu'd ac<g ref="char:EOLhyphen"/>cordingly.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>And your Petitioners,</hi> &amp;c.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>HIS Majeſty Graciouſly refer'd the Conſideration of the Propo<g ref="char:EOLhyphen"/>ſals to the Right Honourable the Earl of <hi>Sunderland,</hi> the Earl of <hi>Caſtlemain,</hi> Mr. Vice-Chamberlain, and Mr. <hi>Brent;</hi> who, (in re<g ref="char:EOLhyphen"/>gard that His Majeſty had by His Letters Patents granted to the Truſtees of the City, what ever they formerly enjoy'd before the Judgment againſt their Charter) conceiv'd it proper to preſent them to the Lord Mayor and Court of Aldermen.</p>
+            <p>Purſuant thereunto, upon the 19th. of <hi>December</hi> laſt, the Orphans ſhew'd their Petition following to Sir <hi>Baſil Firebraſs,</hi> and pray'd his procuring the ſame to be Read by the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men. He inform'd them, that he had communicated the ſame, but that his Lordſhip thought not fit that the ſame ſhould be Offer'd, till after the <hi>Holy-days;</hi> that Court being particularly appointed for the Buſineſs of the Stewardſhip of <hi>Southwark:</hi> And that ſeveral Widows and Orphans appear<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Court before, and were very Clamorous; and his Lordſhip apprehended, that they were ſet on by the Promoters of that Petition. Mr. <hi>Finch,</hi> Mr. <hi>Herne</hi> and others, who then appear'd, aſſur'd him that they reſolv'd againſt Appearing with the ſaid Widows, fearing their Importunities might give Offence: And that they came withall Duty and Reſpect to the Court, and humbly hoped the Court would not refuſe Reading their Petition, eſpecially when it contain'd Propoſals of as great Advantage to the City, as to themſelves. Sir <hi>Baſil</hi> having acquainted his Lordſhip therewith, told the Petitioners, it ſhould be Read. And they being call'd in, Mr. <hi>Recorder</hi> told them, The Petition had been Read; and that after the <hi>Holy-Days,</hi> the Court
+<pb n="3" facs="tcp:136908:2"/>
+would conſider of it; and deſir'd Mr. <hi>Reading</hi> to put his Propoſal in Writting. The Lord Mayor ſaid, That they needed not be Petition'd to pay the Orphans, they had already Order'd the taking them into their Protection, and as ſoon as any Moneys came into the Chamber, they ſhould have notice of it.</p>
+            <p>Mr. <hi>Reading</hi> thereupon ſaid, That the Petition of the Orphans, he eaſily believ'd, was no leſs Surprizing to his Lordſhip and every Mem<g ref="char:EOLhyphen"/>ber of that Honourable Court, than the hearing, That it was in their Power to pay the Petitioners, was to them; eſpecially ſince their deſire to pay what they ſo juſtly Owed, was equal to the Petitioners deſire of receiving what they ſo ſeverely wanted. That the Honour he had for their Renowned City, had put him upon great Pains for preparing the Propoſals in the Petition; and that he allow'd himſelf to believe, they would have been very Acceptable. That the Methods he had taken, and the Meaſures which were to be taken for the effecting this Miracle, he would make out with Demonſtrations: And where the Blame would lye if the Honour of the City and Credit of the Cham<g ref="char:EOLhyphen"/>ber was not by the due proſecuting of the ſaid Propoſals, Improv'd to a far greater height than ever yet they reach'd to.</p>
+            <p>As to the putting off the Conſidering of the ſaid Propoſals till after the Adjournment; he ſaid, The Seaſon indeed commanded Adjourn<g ref="char:EOLhyphen"/>ment, and very Happily; Becauſe the time of Adjournment was fitteſt for proceeding on the Propoſals: For to do Acts of Piety and Juſtice was the Specifick Work of a <hi>Holy-Day;</hi> and then to do them, was to do, <hi>Opus diei in die ſuo.</hi> And if to Relieve the poor of your own Bread was a Duty requir'd to be done at all Times, certainly to help the Starving Fatherleſs, and the Periſhing Widows to their own Bread, which had been ſo long with held, and lately was ſo Importunely prayed for, ought to be reckon'd among the Chiefeſt Buſineſſes of a <hi>Chriſtmaſs.</hi> He concluded, That if his Lordſhip would then appoint Referrees, and they would pleaſe to give but a little of their Leiſure to hear him in that Affair, according to the Petition, he doubted not, but within a very few days to make out what he undertook; that ſo a Report may be fit for the Court againſt their next Meeting; and a happy Entrance would thereby be made to the approaching <hi>New-year,</hi> which would exceedingly tend to the Honour of the City, and the Pe<g ref="char:EOLhyphen"/>titioners Relief.</p>
+            <div type="petition">
+               <pb n="4" facs="tcp:136908:3"/>
+               <head>To the Right Honourable Sir <hi>John Shorter</hi> Lord Mayor, and the Court of Aldermen of <hi>London. The Humble Petition of about</hi> 1400 <hi>Orphans.</hi>
+               </head>
+               <opener>
+                  <salute>SHEWETH,</salute>
+               </opener>
+               <p>THat in Obedience to the Commands of your Honourable Court, the Portions of your Petitioners were pay'd into your Chamber for Securing them againſt their coming out of their reſpective Mino<g ref="char:EOLhyphen"/>rities; and there remains above 500000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> due thereupon.</p>
+               <p>That the Methods formerly taken for paying the ſaid Debt, having been much Obſtructed by the Judgment lately obtain'd againſt your Charter: Application was made to the late Parliament for their Re<g ref="char:EOLhyphen"/>lief; and <hi>Nathaniel Reading</hi> 
+                  <abbr>Eſq</abbr> was of Councel with your Peti<g ref="char:EOLhyphen"/>tioners therein; but it not taking Effect: And the ſaid Mr. <hi>Reading</hi> being duly inform'd on the Behalf of the ſaid Orphans, that great Numbers of them were in a moſt deplorable and periſhing Condition; and his further Aſſiſtance being earneſtly beſought, he acquainted your Petitioners that he had taken very great pains therein, and had Propoſals humbly to make to His Majeſty for paying their reſpective Portions.</p>
+               <p>That His Majeſty was thereupon Petition'd to refer the Examina<g ref="char:EOLhyphen"/>tion thereof, who gave a Gracious Anſwer thereunto. And the ſaid Mr. <hi>Reading</hi> informs us, That great Deliberation hath been had con<g ref="char:EOLhyphen"/>cerning the ſame: And that he is ready to make it appear, that your Honourable Court and your Truſtees, by His Majeſties Letters Pattents ſince the ſaid Judgment, ſtand Impowered to give your Petitioners ſa<g ref="char:EOLhyphen"/>tisfaction out of what His Majeſty hath already granted to you; an Honourable Proviſion for the conſtant ſupport of your Government of the City, being firſt Eſtabliſhed and Secured.</p>
+               <p>For as much that the ſevere Circumſtances which your Petitioners are reduc'd to, permit them not to lye down under their Ruines; while ſo happy a Diſcovery can enable them to contribute any thing towards their own preſervation.</p>
+               <p>And for as much that your Petitioners can in no ſort doubt; But that your Honourable Court will cheerfully endeavour to redeem the Glory of your once Renowned Chamber, and to the utmoſt of your Powers promote ſo juſt a Work; eſpecially ſince the freſh and great Demonſtrations which our Gracious Soveraign, who hath Commiſ<g ref="char:EOLhyphen"/>ſionated you thereunto, hath given of his tranſcendent Charity towards the Relief of ſome Orphans; aſſures us of his Royal Inclinations to Relieve us all, in caſe you ſhall find it neceſſary to be Addreſs'd for on our Behalfes.</p>
+               <p>
+                  <hi>Your Petitioners beſeech your Lordſhip that a Committe of your Honourable Court may be appointed for meeting ſome of your Worthy Truſtees, in the preſence of ſome of your Petitioners for Hearing the ſaid Mr.</hi> Reading <hi>therein; and that they may be attended with what they ſhall conceive needful to Enable them to make a ſpeedy Report concerning the ſame.</hi>
+               </p>
+               <closer>
+                  <signed>And your Petitioners, <hi>&amp;c.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="proposition">
+               <pb n="5" facs="tcp:136908:3"/>
+               <head>The Propoſition of Mr. <hi>Reading</hi> made on the <hi>17th.</hi> of <hi>January 1687.</hi> To the Right Honourable Sir <hi>John Shorter</hi> Lord Mayor and the Court of Aldermen, on Behalf of <hi>1400</hi> Orphans of the City of <hi>London.</hi>
+               </head>
+               <p>SEveral of the Orphans to whom great Summes were due from your Chamber dying in Priſon and Starving for Want; and their Friends not able to get Money out of your Chamber to Bury them. And upon the 18th. of <hi>December</hi> laſt, ſeveral Widows being told by you in Court, that you could not pay them half a Crown <hi>per</hi> Pound; and many offering to take ſix Shillings <hi>per</hi> Pound: And Importuning Mr. <hi>Reading,</hi> who had long been their Councel, to ſtudy their Relief: And a Petition having been preſented to your Honourable Court the 19th. following, purporting his having happily diſcover'd a way to Enable you to pay them their Principal and Intereſt. And their ha<g ref="char:EOLhyphen"/>ving Subſcrib'd an Agreement for allowing him five Shillings <hi>per Pound</hi> for a Reward; and praying your Referring his <hi>Propoſals</hi> to the Conſideration of a Committee: But the ſame being put off to the 22th following; and he then being violently Oppos'd and Diſcourag'd therein, and Order'd to bring his <hi>Propoſals</hi> in Writing upon this day: And thereupon divers refuſing to Subſcribe to the ſaid Agreement, though they had Faithfully promis'd it: And others Unconſcionably de<g ref="char:EOLhyphen"/>ſigning to take the advantage of the ſaid <hi>Propoſals;</hi> and not to give him any Reward; and thereby Obſtructing his Proceedings thereup<g ref="char:EOLhyphen"/>on, not only to their own, but to the Damage of others alſo.</p>
+               <p>And he being ready to make out the certainty and the particulars of his <hi>Propoſals,</hi> to the everlaſting Renown of His Majeſties Charity to the ſaid Orphans, and to the great Advantage of the City alſo: In caſe your Court, will according to their Oaths and Truſt, do what in you lyes to the Encouragement of the ſaid Subſcriptions.</p>
+               <p>Mr. <hi>Reading</hi> propoſeth, thas upon your Ordering this day ſuch En<g ref="char:EOLhyphen"/>couragement to be given, that Subſcriptions may be gain'd to half the Sum due to the ſaid Orphans, which long ſince would have been done, had it not been obſtructed,</p>
+               <p>He will in the preſence of the Right Honourable the Earl of <hi>Caſtle<g ref="char:EOLhyphen"/>main,</hi> Sir <hi>Nicholas Butler,</hi> the Kings <hi>Vice-Chamberlain</hi> and Mr. <hi>Brent</hi> on the behalf of His Majeſty; and of Sir <hi>William Turner,</hi> Sir <hi>William Prichard,</hi> Sir <hi>Peter Rich,</hi> and Mr. <hi>Alderman Herne</hi> on the behalf of the ſaid Orphans, fully and plainly diſcover to the Committee for your Revenues.</p>
+               <p>Firſt, <hi>How you may make an Honourable Proviſion for the Support of the Covernment of the City.</hi>
+               </p>
+               <p>
+                  <pb n="6" facs="tcp:136908:4"/>Secondly, <hi>How that being Eſtabliſh'd, you are Enabled to pay the ſaid Or<g ref="char:EOLhyphen"/>phans.</hi>
+               </p>
+               <p>Thirdly, <hi>And laſtly, How to raiſe a Noble Fund for your Chamber; and to pay its other Debts.</hi>
+               </p>
+               <p>In order whereunto, he propoſeth that no new Leaſe be made un<g ref="char:EOLhyphen"/>der the City Seal, before the ſaid Honourable Perſons have the Offer thereof, for the Benefit of the ſaid Orphans: And that in the preſence of the Keeper of your Records, he may have Liberty to Inſpect them, in order to the making it manifeſt to your Selves; that you have ſuch powers to pay the ſaid Orphans.</p>
+               <p>In caſe of Non-complyance herewith, Mr. <hi>Reading</hi> declares, That he will never attend you more therein; but take ſuch other Mea<g ref="char:EOLhyphen"/>ſures for Relieving the ſaid Orphans, as His Majeſty ſhall pleaſe to direct.</p>
+            </div>
+            <div type="letter">
+               <head>Shorter Mayor. Martis 17 die Januarii 1687/8 Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Regni Regis Jacobi Secundi An<g ref="char:EOLhyphen"/>gliae, <hi>&amp;c.</hi> Tertio.</head>
+               <p>WHereas this Court hath often taken into Conſideration the great Debt due to Orphans from the Chamber of <hi>London:</hi> And be<g ref="char:EOLhyphen"/>ing deſirous to examine the State of the Cities Revenue, and to underſtand what Proviſion may be thence made for payment of the ſaid Orphans, doth re<g ref="char:EOLhyphen"/>fer it to Sir <hi>Peter Daniel,</hi> Sir <hi>Humphrey Edwin,</hi> Mr. Alderman <hi>Mau<g ref="char:EOLhyphen"/>ſon,</hi> Sir <hi>William Aſhurſt,</hi> Mr. Alderman <hi>Gardiner,</hi> Sir <hi>John Eyles,</hi> Mr. Alderman Chamberlain and Mr. Sheriffes, or any three of them, to Inſpect and Examine the State of the Cities Revenue, and Inform themſelves in the beſt manner they can, what Proviſion may be made thereby, or what other Method may well be uſed for payment of the Orphans: And afterwards, this Court receiving this day a Petition from ſeveral Orphans of this City, taking notice of Propoſals offer'd to be made by Mr. <hi>Reading,</hi> for payment of their Portions due from the Chamber, any Praying a publick Encourage<g ref="char:EOLhyphen"/>ment for proceeding thereupon: And in a Paper now deliver'd to this Court in Writing by the ſaid Mr. <hi>Reading;</hi> it being propos'd, That he will in pre<g ref="char:EOLhyphen"/>ſence of certain Honourable Perſons, and ſome Eminent Citizens of this City, diſcover to a Committee of this Court, how all the Orphans may be pay'd, and a ſufficient Proviſion left to Maintain the Cities Government out of the Cities Revenue, with ſome particulars therein deſired in order thereunto: This Court being willing and ready to give all Encouragement to any Diſco<g ref="char:EOLhyphen"/>very that can be made, or Means devis'd, by him or any other Perſon for
+<pb n="7" facs="tcp:136908:4"/>
+payment of the ſaid Orphans: And alſo to Gratify and Reward all ſuch Perſons as ſhall do any Service therein; doth refer it to the ſaid Committee, to Receive and Conſider of any Propoſals the ſaid Mr. <hi>Reading,</hi> or any other Perſon, or any of the ſaid Orphans, or their Friends ſhall make touching pay<g ref="char:EOLhyphen"/>ment of their Portions: And all particulars they ſhall repreſent or deſire in order thereunto; and they to give any Directions they ſhall judge requiſite in the proſecution of this matter; and from time to time make Report unto this Court of their Opinion and Proceedings: And <hi>Samuel Kendall,</hi> Mr. Chamberlain's Clark to attend, and <hi>Daniel Man</hi> to Warn them, and any Mem<g ref="char:EOLhyphen"/>bers of this Court may be preſent, and joyn with the ſaid Committee at any of their Meetings. And it is Ordered, That Mr. Chamberlain, Mr. Common-Serjeant, Mr. Town Clark and Mr. Comptroller of the Chamber, and all other Officers and Perſons the ſaid Committee ſhall require, do from time to time Attend and Aſſiſt the ſaid Committee: And the ſaid Committe are to Meet every <hi>Wedneſday</hi> at Three a Clock in the Afternoon, and oftner if they ſhall ſee Cauſe; and alſo at ſuch other Times as the Honourable Per<g ref="char:EOLhyphen"/>ſons before mention'd ſhall be pleaſed to appoint, to the end they may wait on them, in order to the receiving or proceeding upon the ſaid Mr. <hi>Reading</hi>'s Propoſals.</p>
+               <closer>
+                  <signed>Wagſtaffe.</signed>
+               </closer>
+            </div>
+            <div type="proposition">
+               <head>Mr. <hi>Reading</hi>'s further Propoſition on the Behalf of the Orphans, delivered unto the Right Honourable the Lord Mayor and Court of Alderman on the <hi>24th.</hi> day of <hi>January 1687.</hi>
+               </head>
+               <p>MR. <hi>Reading</hi> in his former Attendances on you, on the Behalf of the Orphans, having upon your Importunities Diſcover'd to you ſome of the particulars of the Methods he propos'd for the Enabling you to pay them: And you having upon the 17th. Inſtant Ordered up<g ref="char:EOLhyphen"/>on the Petition of the Orphans; and the propoſition he then deliver'd, that you being deſirous to Examine the State of your Revenue, and to underſtand what proviſion might thence be made for payment of them; that it ſhould be referr'd to a Commmtitee of ſeveral of your Mem<g ref="char:EOLhyphen"/>bers to inform themſelves in the beſt manner they could, what Provi<g ref="char:EOLhyphen"/>ſion might be made thereby, or what other Methods might well be us'd for payment of them; and declar'd that you were willing and ready to give all Encouragement to any Diſcovery that could be made, or Means devis'd by him, or any other perſon for payment of them; and alſo to Gratify and Reward the Service done therein: And the Committee were to receive and conſider of his Propoſals, and all par<g ref="char:EOLhyphen"/>ticulars he ſhould repreſent or deſire in order thereunto, and to give any
+<pb n="8" facs="tcp:136908:5"/>
+Directions they ſhould judge requiſite in the Proſecution thereof, and to Report their Opinions and Proceedings; and to meet at ſuch time as the Right Honourable the Earl of <hi>Caſtlemain,</hi> Sir <hi>Nicholas Butler,</hi> the Kings <hi>Vice-Chamberlain</hi> and Mr. <hi>Brent</hi> ſhould appoint, and to wait on them in order to the renewing and proceeding on his ſaid <hi>Propoſals.</hi>
+               </p>
+               <p>And His Majeſties <hi>Vice Chamberlain</hi> having upon <hi>Saturday</hi> laſt At<g ref="char:EOLhyphen"/>tended your Committee, and excus'd the Abſence of the other Honour<g ref="char:EOLhyphen"/>able perſons, by reaſon of their being upon his Majeſties other Ser<g ref="char:EOLhyphen"/>vice, and aſſur'd them, as they had all taken great pains in contriving and promoting the Orphans relief, ſo they would readily Attend at any other time, and to their utmoſt improve his Majeſties Sacred Cha<g ref="char:EOLhyphen"/>rity towards them upon all occaſions: And Sir <hi>William Turner,</hi> Sir <hi>William Pritchard,</hi> and Sir <hi>Peter Rich,</hi> and Mr. Alderman <hi>Herne,</hi> in their publick zeal to carry on ſo Pious and good a Work, Attending there alſo on the Behalf of the ſaid Orphans: Mr, <hi>Reading</hi> pray'd, that according to the expreſs Condition of the Diſcovery in his ſaid <hi>Propoſal,</hi> and your Order thereupon, ſome publick Encouragement may be given fur Subſcribing to the Agreement for his Reward therein men<g ref="char:EOLhyphen"/>tioned; and that ſuch of the Orphans who Subſcrib'd thereto might re<g ref="char:EOLhyphen"/>ceive the Benefit of his ſaid Service, before thoſe who refuſed to concern themſelves therein, and that he may have the liberty of Inſpecting your Records, and your ſeveral Orders and proceedings thereupon re<g ref="char:EOLhyphen"/>lating to your Revenue: And it being ſolemnly declar'd by your Re<g ref="char:EOLhyphen"/>ferrees, that they would be ſo far from diſcouraging any of the Orphans from Rewarding him; that in caſe he could enable them to Improve their Revenue, their Court would certainly give him an Honourable Reward, according to what Mr. <hi>Vice-Chamberlain</hi> himſelf ſhould con<g ref="char:EOLhyphen"/>ceive Fitting: And that their ſeveral Officers ſhould permit him from time to time to inſpect the <hi>Charters, Rentalls, Surveys, Tittles, Leaſes, Orders,</hi> and all matters whatſoever relating to their Revenue, and whereby the ſame may be any ways Improv'd: And Mr. <hi>Reading</hi> reſt<g ref="char:EOLhyphen"/>ing thereupon, and <hi>Mr. Alderman Chamberlain</hi> then importuning him to give ſome further particulars, whereby their Revenue might be Im<g ref="char:EOLhyphen"/>prov'd; he with great freedom gave ſeveral Inſtances rhereof, but the ſaid <hi>Alderman</hi> declar'd, that nothing he ſaid was New; the ſeveral particulars he mention'd were entred in their Book upon the Table.</p>
+               <p>Mr. <hi>Reading</hi> replyed, That the knowledge of thoſe particulars was an Aggravation of the Breach of Truſt in not Improving them, and that the Entries in the Book were made not only ſince his <hi>Propoſals,</hi> but ſince the very Order by which they then ſat: And that however, he had ſeveral other Matters for their Service, which themſelves would Confeſs were new to them; and that notwithſtanding the Term, and all his other buſineſs, he would withal Diſpatch and Diligence apply himſelf to the Inſpection, and then attend them further; and there<g ref="char:EOLhyphen"/>upon Mr. <hi>Vice-Chamberlain</hi> took his leave and the Committee roſe.</p>
+               <p>
+                  <pb facs="tcp:136908:5"/>Several of the Orphans attending without to pay their Acknowledg<g ref="char:EOLhyphen"/>ments to Mr. <hi>Vice-Chamberlain;</hi> and declaring that they would imme<g ref="char:EOLhyphen"/>diatly Subſcribe, Mr. <hi>Alderman Ghamberlain</hi> told them (as they infor<g ref="char:EOLhyphen"/>med <hi>Mr. Reading</hi>) that <hi>Mr. Reading</hi> had deluded them; that there was nothing in his undertaking but Words, and us'd ſeveral other unkind Reflections to that effect.</p>
+               <p>
+                  <hi>Mr. Reading</hi> reſolving upon 23th. Inſtant to give himſelf up to the Inſpection, and being told by <hi>Mr. Comptroller,</hi> that it was neceſſary he ſhould firſt have the Order which the Committee had made, he ſent to <hi>Mr. Kendall</hi> for it, but could not have it; and <hi>Mr. Town-Glark</hi> told <hi>Mr. Reading,</hi> that he was ordered not to deliver it, without the Di<g ref="char:EOLhyphen"/>rection of the Court this day.</p>
+               <p>
+                  <hi>Mr. Reading</hi> for avoiding all miſtakes, and to the end the <hi>Orphans</hi> may looſe no more time; in caſe <hi>Mr. Alderman Ghamberlain</hi> ſhall con<g ref="char:EOLhyphen"/>tinue to oppoſe their Relief, and to Affront <hi>Mr, Vice-Chamberlain,</hi> and the other Honourable Perſons, and to Contradict not only the Orders of your Honourable Court, but of the Committee alſo; Humbly de<g ref="char:EOLhyphen"/>livers this, and Prayes your poſitive Order for Encouragement and Inſpection, or your denyal thereof.</p>
+            </div>
+            <div type="proposal">
+               <head>Mr. <hi>Reading</hi>'s Third Propoſal delivered to the Right Honourable the <hi>Lord Mayor</hi> and <hi>Court of Aldermen</hi> on 21th. of <hi>February 1687.</hi> on the Behalf of the Orphans: Which containing only the True and Neceſſary State of their Caſe: He Prayes that nothing in it may be look'd upon as Reflective.</head>
+               <p>THere being by Account deliver'd into the Committeee of the laſt <hi>Houſe of Commons</hi> 500000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Principal, and near 100000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Intereſt thereof due to about 1400 Orphans, which under pain of Impriſonment, your Court compell'd to be pay'd into your <hi>Chamber:</hi> And there being likewiſe due to ſeveral other Orphans and Creditors upon Bond under your Common-Seal, about 100000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> more, beſides Intereſt; the greateſt part whereof was Artificially gain'd from Or<g ref="char:EOLhyphen"/>phans (upon Promiſe of paying them ready Moneys, in caſe they would acknow<g ref="char:EOLhyphen"/>ledge Satisfaction; but that being obtain'd, and Fees pay'd as for actual Receipts, nothing but your Bond could be got for their reſpective Summes:) And the reſidue thereof being at the Inſtance of your Court borrow'd upon Intereſt, upon Suggeſti<g ref="char:EOLhyphen"/>on to Pay the ſame among the ſaid Orphans: And the common Intereſt of the ſaid Moneys being above 30000 <hi>
+                     <abbr>l.</abbr> per Annum,</hi> and no Penny Profit made by you of any of the Principal. And the yearly Revenues brought into your Chamber <hi>Com<g ref="char:EOLhyphen"/>munibus Annis,</hi> not exceeding 12000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and near 10000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> thereof yearly pay'd out in Salaries, Officers Bills, and ſeveral other Particulars which your Circumſtances might well diſpenſe with: So that the ſaid Intereſt you were to pay yearly, ex<g ref="char:EOLhyphen"/>ceed your Income above 28000 <hi>
+                     <abbr>l.</abbr> per Annum.</hi> And it neceſſarily following there<g ref="char:EOLhyphen"/>upon, that the poor Orphans (whoſe Right each of you have Solemnly Sworn that you would maintain) have no proſpect of being redeem'd from Periſhing; nor the other Creditors any hopes of getting any part of Intereſt, you having lately turn'd Intereſt into Principal, as a ſtated Debt; and actually pay'd ſix Pence <hi>per</hi> Pound to them, with intenr to pay no further Intereſt; had not <hi>Mr. Attorney General</hi> de<g ref="char:EOLhyphen"/>clar'd His Majeſties Gracious Pleaſure to have Intereſt pay'd on, whereupon you vacated your former Order, and directed the ſaid 6 <hi>
+                     <abbr>d.</abbr> per</hi> Pound to be allow'd on<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:136908:6"/>
+as part of Intereſt: And you having lately in Court deny'd to hear any but Women on the Orphans Behalf; and declar'd that you could not pay them 2 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <hi>
+                     <abbr>d.</abbr> per</hi> Pound.</p>
+               <p>And Mr. <hi>Reading</hi> having about two Months ſince offer'd in caſe you would per<g ref="char:EOLhyphen"/>mit him to Inſpect your Books, Rentalls, <hi>&amp;c.</hi> He would Demonſtrate to you, that by your due ordering the Revenue which His Majeſty hath Intruſted you to Man<g ref="char:EOLhyphen"/>nage for the publick Good of your City, the Government of it might be Nobly Supported: The Orphans and Creditors might by fully pay'd; and a real Fund for your Chamber rais'd: As by his firſt Propoſal deliver'd to you.</p>
+               <p>And he receiving great Diſcouragements and Unkindneſſes from you in return, and the Inſpection being contradicted, after it was ſolemnly Ordered in the Pre<g ref="char:EOLhyphen"/>ſence of His Majeſties <hi>Vice-Chamberlain,</hi> Sir <hi>William Turner,</hi> Sir <hi>William Pritchard,</hi> Sir <hi>Peter Rich,</hi> and Mr. <hi>Alderman Herne:</hi> As by his further Propoſal deliver'd to you upn the 24th. of <hi>January</hi> laſt.</p>
+               <p>And no Anſwer being given thereunto, by reaſon of rhe Abſence of Sir <hi>Peter Daniel</hi> who was Chairman. And the day following Mr. <hi>Reading</hi> attending the Committee: And an Order for Inſpecting what related to <hi>Queen-Hyth</hi> being pro<g ref="char:EOLhyphen"/>miſed, by them to be obtain'd for him at your Court the next Morning: And he being earneſtly preſs'd to diſcover ſome further Particulars of his deſign'd Improve<g ref="char:EOLhyphen"/>ments, or otherwiſe they would meet no more.</p>
+               <p>Notwithſtanding no Order for Inſpection can be obtain'd: Notwithſtanding that upon the firſt of <hi>February</hi> Sir <hi>Peter Daniel</hi> told him, the Committee thought it neither fit that he ſhould Inſpect any of their Books relating to <hi>Queen Hyth;</hi> nor the account of the <hi>Cole-Duty:</hi> Notwithſtanding that he hath ſince alſo met with freſh Diſcouragements and Unkindneſſes: And that Mr. <hi>Robert Murray</hi> hath pub<g ref="char:EOLhyphen"/>lickly and falſly accus'd Mr. <hi>Reading,</hi> by ſaying, That he being of Councel with Mr. <hi>Murray</hi> had made uſe of his Projects: And notwithſtanding that, Mr. <hi>Murray</hi> hath vainly pretended to pay the Orphans, and to Improve your Revenue to 40000 <hi>
+                     <abbr>l.</abbr> per Annum.</hi>
+               </p>
+               <p>Yet ſo ready is Mr. <hi>Reading</hi> to promote the for ever to be Renowned Charity of His Sacred Majeſty toward the ſaid Orphans: And ſo great is the value he hath for the Honour of your Court, which you have Solemnly oblig'd to Reward his Service herein, that without more reſerve, He humbly layes before you theſe par<g ref="char:EOLhyphen"/>ticulars following. <hi>(viz.)</hi>
+               </p>
+               <p n="1">I. The Breach of publick Truſt by the Male-Executions of the Acts of Parlia<g ref="char:EOLhyphen"/>ment, for raiſing of Moneys for the Re-building your City, hath been exceedingly to the Damage of the ſaid Orphans: Not only by ſuffering great Summes of their Moneys to be pay'd out of your <hi>Chamber</hi> upon the Credit of the ſaid Acts, towards raiſing unneceſſary and unwarrantable Buildings, and the making extravagant Pur<g ref="char:EOLhyphen"/>chaſes at unconſcionable Rates; (while ſeveral of the ſaid Orphans, whoſe Por<g ref="char:EOLhyphen"/>tions were ſo Imbezil'd, lay Periſhing for want of Bread) but by not making any Perſons Pay for Melioration of their Houſes; by taking away, <hi>Churches, Cyſterns, Standards, Middle-Rows;</hi> and other ways, which long ſince ought to have been done, and at this day will juſtly bring in many Thouſands of Pounds. And alſo, by not bringing into your <hi>Chamber</hi> any Moneys for the Fraudulent Concealment of the <hi>Cole-Duties:</hi> And yet allowing many Thouſands of Pounds out of your <hi>Chamber</hi> to Mr. <hi>Bridges</hi> and his Partners, for Detecting the ſaid Concealments.</p>
+               <p>If you pleaſe to permit a due Inſpection to be made into the Contracts and Ac<g ref="char:EOLhyphen"/>counts of the Works, for which the Orphans Moneys were Advanced; and into the great Miſ-applications of Moneys about <hi>Fleet-Ditch,</hi> which is ſaid to have Coſt near 140000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and ſcarcely yeilds you 100 <hi>
+                     <abbr>l.</abbr> per Annum</hi> Rent: About the <hi>Mo<g ref="char:EOLhyphen"/>nument,</hi> which 'tis ſaid Coſt near 20000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and ſcarcely yeilds you 20 <hi>
+                     <abbr>l.</abbr> per Annum</hi> Rent. And about <hi>Bridewell-Hoſpital</hi> and <hi>New-Bethelem,</hi> which 'tis ſaid, Coſt ſcores of Thouſands of Pounds, under the Fraudulent diſguiſe of Priſons; and yeilds but 12 <hi>
+                     <abbr>d.</abbr> per Annum</hi> Rent; while Thouſands of Pounds might have been rais'd for your <hi>Chamber,</hi> by the Ground it ſtands on; And no one Penny is anſwered to you for the vaſt Improvements of the Mannor of <hi>Old-Bethlem.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:136908:6"/>And if you pleaſe that the Contracts, Accounts and Miſ-applications of Mo<g ref="char:EOLhyphen"/>neys in like manner advanced for Building <hi>Guild-hall,</hi> the Houſes about it, the <hi>Chappel,</hi> the <hi>Lombard-Office, Blackwell-hall,</hi> the <hi>Compters,</hi> the <hi>Exchange,</hi> and o<g ref="char:EOLhyphen"/>ther places which were Burn'd, and about <hi>Leaden-Hall,</hi> and other places which were not Burn'd, may be Inſpected alſo.</p>
+               <p>And that due Proſecution may be made of all Meliorations, Concealments of the ſaid Duties, Frauds and Fraudulent Detainers of Moneys for the pretended Detections thereof. Through your Kindneſs and Juſtice to the Orphans, the ſame will conduce not a little to their Relief.</p>
+               <p n="2">II. The Priviledges of the Freemen of your City through His Majeſties wh<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Dominions at Home, and beyond the Seas; by reaſon of the many Royal Favours formerly granted to it, and at this day Confirm'd and Enlarg'd, are very great, and Antienly have been very Valuable.</p>
+               <p>The Truſts which your Court and the reſt of the Freemen have been Honour'd with have been no leſs: And as their due Obedience to the Crown, obtain'd from it, the Government of the City; ſo their prudent Managing thereof, ob<g ref="char:EOLhyphen"/>tain'd to your Court, the Guardianſhip of the Orphans of your Freemen: And while no Penny of their reſpective Portions was medled with, but they were Sa<g ref="char:EOLhyphen"/>credly kept, as dead Depoſits, till they could ſafely be diſpos'd of for the Benefit of the Infants; the Bleſſings of the Father, of the Fatherleſs, were ſo multiply'd up<g ref="char:EOLhyphen"/>on your City, that you were further Intruſted with the Government of the <hi>Tower,</hi> with the Fortifying your Wall; and with the Cleanſing of the large Ditch which Encompaſs'd them, and whereby they were then Impregnable: Nay the Crown it ſelf, and conſequently the whole Kingdom were ſo at eaſe, under the Loyalty and Greatneſs of your City: That not only the Conſervacy of the Rivers of <hi>Thames, Ley</hi> and <hi>Medway,</hi> but of the <hi>Narrow-Seas,</hi> alſo was committed to it. And ſo ex<g ref="char:EOLhyphen"/>ceedingly ſucceſsful was your City in the Service of the Crown, both againſt Enemies and Rebels; that the <hi>London Laudamus</hi> inſtead of <hi>Te Deum,</hi> was pub<g ref="char:EOLhyphen"/>lickly Sung for it: And the Reverſe of your Antient Seal, ſhews the great Eſteem was had for you.</p>
+               <p>For the Admittance of each Apprentice to this Priviledge after ſeven Years Faithful Service, the Antient Fee pay'd by the Maſter, to your <hi>Chamber,</hi> is but four Shillings; but it was appointed in thoſe days, when Money was ſo Dear, that they who Built your firſt <hi>Hall,</hi> had but Pence a piece for for their daily Wages.</p>
+               <p>The Orphans Patrimony having amongſt other things been lately profain'd, to the laying out near 100000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> thereof in Fortifying your City againſt the Kings Bleſſed Father (who Graciouſly Enlarg'd your Priviledges, and declar'd in his Royal Charter to you, <hi>That his Soul Affected your Proſperity;</hi>) and in Penſions, Thanks<g ref="char:EOLhyphen"/>giving-Dinners, Preſents to the great Officers of the Rebels, <hi>&amp;c.</hi> for the Succeſs of your Arms againſt Him; and your publick Debts doubling, while the Mem<g ref="char:EOLhyphen"/>bers of your Court were intent upon Improving their own <hi>Nine-pences</hi> into <hi>Nobles.</hi> And in the particular Companies of which ſome of you are Free, and by reaſon thereof take Apprentices with ſeveral Hundreds of Pounds, and gain conſiderably by their ſeven Years Serving you; the taking far greater Summes than 4 <abbr>
+                     <hi>s.</hi>
+                  </abbr> for Freedoms hath been advis'd, and is practis'd: And every perſon praying the Free<g ref="char:EOLhyphen"/>dom of any of thoſe Companies, Payes it with Thanks, and ſomething to the Poors Box alſo; and yet cannot obtain being a Fellow-Citizen with you, with<g ref="char:EOLhyphen"/>out your Order; and ſome other ſmall inconſiderable Fees to your Officers.</p>
+               <p>
+                  <hi>If you pleaſe therefore, that each Perſon taking his Freedom from you may pay for it; and do what in you lyes to Eſtabliſh a Table of Fees for Freedoms, ſomewhat propor<g ref="char:EOLhyphen"/>tionable to the Advantages thereof — To the values of their reſpective Companies— To your publick Exigencies— And to the preſent value of Money: By doing whereof, ſe<g ref="char:EOLhyphen"/>veral of the ſaid Companies, have to their great Honour, pay'd their Debts, and rais'd their Funds.</hi>
+               </p>
+               <p>
+                  <hi>And if you will purſue the legal Powers you ſtand Intruſted to ſee perform'd concern<g ref="char:EOLhyphen"/>ing Freedoms: And each Freeman ſtands Sworn to obſerve.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:136908:7"/>
+                  <hi>And if you will not continue to grant Freedoms to</hi> Aliens, <hi>whereby His Majeſty is defrauded of His Cuſtomes; your Rights are prejudic'd, your Leaſses are Diſabled from paying your Rents; and vaſt Numbers of your Fellow-Citizens and their Families are reduc'd to Beggary. You will then make one further good ſtep towards relieving the Orphans.</hi>
+               </p>
+               <p n="3">III. The Duties of the <hi>Water-Baylage</hi> which were in Leaſe to Mrs. <hi>Carpenter,</hi> are by the Conſent of the Kings <hi>Vice-Chamberlain,</hi> (in whom the true Intereſt of that Leaſe is) capable of being Improv'd conſiderably: So are the Lands which were granted to you under the Royal Contracts, for Diſpoſal whereof, Mr. <hi>Brand<g ref="char:EOLhyphen"/>rith</hi> and others were Commiſſionated by you.</p>
+               <p n="4">IV. The <hi>Kings-Beam,</hi> by reaſon of your not duely Managing the ſame; is ſo far from bringing any Moneys into your <hi>Chamber,</hi> that it occaſions taking Moneys from other Branches of your Revenue.</p>
+               <p>The Courts of <hi>Conſervacy</hi> of the Rivers, by reaſon of the Neglects and Abuſes committed by your Officers; have not only been to the Scandalous Deſtruction of <hi>Fiſh,</hi> but inſtead of bringing any Moneys into your <hi>Chamber,</hi> (as it was once order'd) have by keeping them, ſemetimes coſt your <hi>Chamber</hi> near 1000 <hi>
+                     <abbr>l.</abbr> per Annum,</hi> and ſeldom under 300 <hi>
+                     <abbr>l.</abbr> per Annum.</hi> And the Antient Duties for <hi>Barges</hi> paſſing from <hi>Graveſend,</hi> &amp;c. have not been ſo much as ask'd for.</p>
+               <p>The <hi>Green-Wax-Duties</hi> are ſo far from being Collected for the good ends for which they were Granted to your City, that the Juſtice of His Majeſties Govern<g ref="char:EOLhyphen"/>ment, the Welfare of the Subject, and the Honour of the City; exceedingly ſuffer by the undue Proſecution of them: And ſo far are they from bringing in 300 <hi>
+                     <abbr>l.</abbr> per Annum</hi> (which hath been offer'd for them) that they are a Burthen to your <hi>Chamber.</hi>
+               </p>
+               <p>The <hi>Chamber</hi> Receives no Penny Profit by Penalties Incurr'd for Tranſgreſſing the Antient and Eſtabliſh'd Laws of your City; which are, or ought to be Pre<g ref="char:EOLhyphen"/>ſented in your ſeveral <hi>Seſſions,</hi> or in the ſeveral <hi>Ward-Motes,</hi> or by your Officers. Nor by the Preſentments of the Diſſolved Monaſtery of <hi>Christ Church,</hi> commonly call'd <hi>Dukes-Place.</hi> Nor by thoſe of the Mannor of <hi>Finsbury:</hi> And yet the Al<g ref="char:EOLhyphen"/>lowances you give for looking after them, are a conſtant Burthen to your <hi>Chamber.</hi>
+               </p>
+               <p>
+                  <hi>If you pleaſe that due Amendment may be made in theſe Particulars; the Orphans will not only be Advantag'd by ſaving theſe Expenſive Exhauſtings, but by the great Improvements which may ariſe to them thereby alſo.</hi>
+               </p>
+               <p n="5">V. The vaſt and numerous Charities which have been given to Pious and pub<g ref="char:EOLhyphen"/>lick Uſes; and which were conceiv'd to be happily committed to the Care and Comptrol of your Court; are not only ſufficient to maintain and Anſwer the ne<g ref="char:EOLhyphen"/>glected good Ends for which they were reſpectively given: But alſo by due Improve<g ref="char:EOLhyphen"/>ment, to contribute towards the payment of the Moneys due from you to divers of the ſtarving Orphans, who ſtand Related to their <hi>Religious Donors.</hi>
+               </p>
+               <p>And yet ſome about you, inſtead of doing their Duties therein, make a very ill Advantage of the late Alterations which have been among your Members; ſeveral of whom have been altogether Ignorant of the Tranſactions of your Court; and either Imbezil, or Connive at the undue Managing of thoſe Sacred Revenues, and permit the other Moneys of your <hi>Chamber,</hi> which ſhould buy the poor Orphans Bread; to be Squandred away, even at this preſent, under the Notion of publick Works, the which when finiſh'd, will neither bring in one Penny of Profit to the poor Orphans, or your <hi>Chamber.</hi>
+               </p>
+               <p n="6">VI. If you pleaſe that the 1000 <hi>
+                     <abbr>l.</abbr> per Ann.</hi> which is allow'd for the ſingle Mouth of one of your Domeſtick Officers, may go towards the Feeding of the Starving Orphans; while your Doggs are plentifully provided for out of their Eſtates.</p>
+               <p>And that the Liveryes which are yearly given out of the Chamber, may go to<g ref="char:EOLhyphen"/>wards covering their Nakedneſs.</p>
+               <p>If the great Summes, which without any ſhaddow of Reaſon are yearly pay'd out of your <hi>Chamber,</hi> to Mrs— To your <hi>Market-Clarks,</hi> To your <hi>Fruit-Meters,</hi> To your <hi>Water Bailiffs;</hi> and others out of your <hi>Market-Rents.</hi>
+               </p>
+               <p>
+                  <pb n="13" facs="tcp:136908:7"/>If the Frauds and Surpluſage of the Revenues of the <hi>Bridge-houſe,</hi> above the juſt and neceſſary Expences relating thereunto.</p>
+               <p>If the Frauds and Surpluſage of the Revenues of the ſeveral <hi>Hoſpitals</hi> under your Government; due regard being firſt had for the juſt ſupport of them accord<g ref="char:EOLhyphen"/>ing to their reſpective Inſtitutions.</p>
+               <p>If the great Dammage ſuſtain'd by your <hi>Chamber</hi> by Non-performance of the Covenants of the Purchaſers from you of what was granted you under the ſaid Royal Contracts be juſtly anſwered to you: And the Concealments and Frauds relating thereunto, be Proſecuted and duly apply'd to the Relief of the Orphans.</p>
+               <p>If <hi>Morefields,</hi> which coſt your <hi>Chamber</hi> 20 <hi>
+                     <abbr>l.</abbr> per Annum</hi> to the Keepers, beſides Repairs, were likewiſe duly Improv'd: And alſo the New <hi>Artillery-Ground</hi> which you Lett but at 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 8 <hi>
+                     <abbr>d.</abbr> per annum</hi> and ſome years coſts you above 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> beſides.</p>
+               <p>If the vaſt Expences your <hi>Chamber</hi> is at in <hi>Ley-ſtalls</hi> (which was never heard of before the Rebuilding of your City) beſides the Fines for Purchaſing: And the Fraudulent Managing of them were Retrench'd.</p>
+               <p>If the Mannor of <hi>Finsbury,</hi>—the <hi>Conduit-Meads</hi> and Fields,—the <hi>Gates</hi> and <hi>City-houſes</hi>— the ſeveral Incroachments and Waſts belonging to your City be Improv'd, and their Arrears brought in for the Benefit of the Orphans.</p>
+               <p>If the ſeveral publick <hi>Waters, Grounds</hi> and <hi>Buildings</hi> relating to them were Im<g ref="char:EOLhyphen"/>prov'd alſo: And the Charges of the publick <hi>Stairs, Docks,</hi> &amp;c. belonging to your City (for the due maintaining whereof, Fifteens were Antiently Aſſeſs'd and rais'd upon the Inhabitants of the reſpective <hi>Wards</hi>) were not born out of the Moneys which your <hi>Chamber</hi> ſhould pay the Orphans.</p>
+               <p>If the Office of <hi>Out-Roper,</hi> which is juſtly granted to you, but hath been utterly neglected by you, were duly managed.</p>
+               <p>If the Notorious and Scandalous Oppreſſion of the poor by Tally-men, were Re<g ref="char:EOLhyphen"/>dreſs'd by Eſtabliſhing the <hi>Lombard-Office</hi> for accommodating thoſe that deſire to take up Moneys upon Pawns: And a Regiſtery of Sales, and Pawns to Retailing Brokers were ſet up for diſcovering Felonies and Clandeſtine Thefts, according to the Powers which His Majeſties Bleſſed Father gave you: And the Profits ariſing by them apply'd to the Orphans.</p>
+               <p>If none of the late Fines for <hi>Aldermen</hi> and <hi>Sheriffs;</hi> appropriated by His Ma<g ref="char:EOLhyphen"/>jeſty for the Relief of the Orphans, be miſapply'd. And the good Summes of Moneys which may at this preſent be had for Vacancies, were Expiatorily, and by way of Accommodation generouſly added thereunto. And if the Garniture of your <hi>Hall</hi> upon your late Entertaining His Majeſty, be pay'd to your Officers out of your own Purſes, for Re-imburſement of your Chamber.</p>
+               <p>If the <hi>Box money</hi> of your Chamber: And of the ſeveral <hi>Ward-Motes.</hi>
+               </p>
+               <p>If the <hi>Trophy-money:</hi> And the vaſt Summes which have been receiv'd for <hi>Tolls</hi> and <hi>Duties,</hi> were duly accounted for: If the Profits ariſing by <hi>Wool, Leather,</hi> and Commodities according to yourt undoubted Rights were juſtly Improv'd and ap<g ref="char:EOLhyphen"/>pleyed to the Orphans; they would have great reaſon to Bleſs God for you.</p>
+               <p>Not to make further Inſtances, though many more are ready; and theſe are too many, if ridicul'd inſtead of being accepted.</p>
+               <p>
+                  <hi>To conclude,</hi> If you ſhall pleaſe to accept of 2000 <hi>
+                     <abbr>l.</abbr> per Annum</hi> for the Support of the Chair: And 7000 <hi>
+                     <abbr>l.</abbr> per Annum</hi> for the <hi>Sheriffs,</hi> Salaries, and Accidental Charges.</p>
+               <p>And veſt all the Intereſt you have in all ſorts of Profits under His Majeſties Let<g ref="char:EOLhyphen"/>ters Patents to you, upon the Honourable perſons in the ſaid firſt Propoſal named, on the behalf of His Majeſty and the ſaid Orphans; and do what in you lyes to have the ſame Improv'd to the beſt Advantage of your City and the ſaid Orphans.</p>
+               <p>Mr. <hi>Reading</hi> propoſeth. That Security above all Exception ſhall be given you for paying the ſaid 9000 <hi>
+                     <abbr>l.</abbr> per Annum</hi> into your <hi>Chamber</hi> for the Uſes aforeſaid; and for Diſcharging the ſeveral Summes you owe to the ſaid Orphans: And after<g ref="char:EOLhyphen"/>wards to the reſt of your Creditors upon Bond alſo.</p>
+               <p>What the Conſequences of ſuffering any one of your Orphans or Creditors to Periſh for want of Bread, after this Addreſs, muſt Inevitably be; Mr. <hi>Reading</hi> in humble Deference to your great Court, omits to mention.</p>
+               <p>
+                  <pb n="14" facs="tcp:136908:8"/>The Principles your Lordſhip acts Piety, Charity and Juſtice upon, are Ver<g ref="char:EOLhyphen"/>tuous and Noble. Your Lordſhip Cheerfully Improves the Happy, though ſhort Opportunities of doing them, for the ſakes of God and the King, who put them into your Hands.</p>
+               <p>But ſince we are allow'd in the beſt of our Actions to have an Eye to Reward, your Lordſhip will moſt certainly find, that by a due Proſecuting of theſe Propo<g ref="char:EOLhyphen"/>ſals, and what attends them, (whereby (into the Bargain) the future Glory of your <hi>Chamber</hi> will like that of the <hi>New-Temple,</hi> exceed your former; Nay, the <hi>Banks</hi> of <hi>Amſterdam</hi> and <hi>Venice</hi> too.) The Orphans will Erect a Monument for you, <hi>Quod nec Jovis ira, nec ignis,</hi> ſhall ever Efface: And ſhall not only be <hi>Aere Perennius,</hi> but out laſt Malice it ſelf, as well as all Siniſter Oppoſition.</p>
+            </div>
+            <div type="proposal">
+               <head>Mr <hi>Reading</hi>'s laſt Propoſal on the Behalf of the Orphans, deliver'd to the Right Honourable the Lord Mayor and Court of Aldermen, <hi>March 13. 1688</hi>
+               </head>
+               <p>THe repeated Aſſurances you have in Court and ſeverally given of your Zeal for Relieving the Orphans; commanded them, even againſt their Senſe to believe you were in Earneſt: And Encourag'd Mr. <hi>Reading</hi> to drudge on to con<g ref="char:EOLhyphen"/>trive the Enabling you thereunto: And to Inſert in the laſt publick Occurences, viz. <hi>Guild-hall March</hi> 1. <hi>The Right Honourable the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men, in Anſwer to Mr.</hi> Reading<hi>'s Propoſals (which terminated in an Offer to give them Security to pay</hi> 9000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> per Annum <hi>into their Chamber for the Support of the Govern<g ref="char:EOLhyphen"/>ment of their City, and out of the reſt of their Revenues to pay the Orphans and Creditors upon Bond alſo,) did this day declare by Mr.</hi> Recorder, Nemine Contradicente, <hi>That they would give free liberty to Inſpect whatever related to their Revenue; and Cheer<g ref="char:EOLhyphen"/>fully do what lay in their Power towards that good work of paying the Orphans, which themſelves ſo heartily deſir'd: For which Mr.</hi> Reading <hi>and divers of the Orphans pre<g ref="char:EOLhyphen"/>ſent, return'd their humble Thanks to his Lordſhip and the whole Court— In the mean time, all Orphans, and perſons concern'd for Orphans, are deſired to repair forthwith to the houſe of Mr.</hi> Unwin <hi>Scrivner in</hi> Lombard-ſtreet London, <hi>in order to their Subſcribing to the Propoſals made by the ſaid Mr.</hi> Reading <hi>for their Relief. The four Months for doing the ſame being almost Elapſed, otherwiſe they are not to expect the ſame Advantages as thoſe are to have, who ſeveral Months ſince have ſubſcribed thereunto.</hi>
+               </p>
+               <p>But the unkind uſage which the profeſs'd Enemies of the Orphans procur'd that day to be made to them, and him, was of infinite Surprize. Inſtead of having your Anſwer in writing to his third Propoſal, which your Lordſhip ſolemnly pro<g ref="char:EOLhyphen"/>miſed, and that it ſhould be ſhewn the Orphans upon the <hi>Saturday</hi> following; the Order was the next Morning hudled up in the abſence of Mr. <hi>Recorder,</hi> who had taken great pains in digeſting the ſaid Propoſal) and refus'd to be ſhewn till it came out in the <hi>Gazette;</hi> and before the Orphans could ſee it, a Committee was privately held the <hi>Wedneſday</hi> following, and Mr. Alderman <hi>Chamberlain,</hi> by un<g ref="char:EOLhyphen"/>derſtanding with Mr. <hi>Robert Murry,</hi> ſtruck up a Bargain with him for the Profits of the Office of <hi>Out-Roper</hi> in Mr. <hi>Reading</hi>'s Third Propoſal mentioned, (and which Mr. <hi>Murry</hi> never before ſo much as Dreamt of) and was intended to have raiſed immediately for the Orphans, ſeveral Thouſands of Pounds <hi>per An'</hi> And the next morning your Lordſhip confirmed it, and ordered a Leaſe to be made thereof to Mr. <hi>Thomas Puckle</hi> for 21 years, paying into the Chamber one Third part of the clear Profits thereof, for the firſt ſeven years, a Moiety for the ſecond ſeven years, and two Third parts for the laſt ſeven years of the ſaid Term; whereby they al<g ref="char:EOLhyphen"/>ready brag of getting above 40000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and no manner of care is taken that the Poor Orphans ſhall receive one Penny by it.</p>
+               <p>Nor is this all, the Order of the 1ſt. Inſtant which your Lordſhip publiſhed in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Gazette,</hi> being as followeth. (<hi>This Court, out of their deep ſence of the deplora<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le Condition of the State of the Chamber of</hi> London, <hi>and the great Debt from hence due to</hi> Orphans <hi>and others, having formerly appointed a</hi> Committee <hi>to inſpect
+<pb n="15" facs="tcp:136908:8"/>
+the ſame, and conſider by what means any Branch of its Revenues may be improved, and then to make Report thereof unto this Court; The ſaid</hi> Committee <hi>was now by this Court earneſtly deſired to proceed thereupon, with the utmoſt Diligence and Diſpatch. And whereas there have been ſeveral Inſinuations made, That the Eſtate and Revenue belonging to this City, is ſufficient both to pay the ſaid</hi> Orphans, <hi>and alſo defray the neceſſary Charge of the Cities Government. This Court did now firmly reſolve and de<g ref="char:EOLhyphen"/>clare, That all Improvements that can be made (over and above the Charge of the Go<g ref="char:EOLhyphen"/>vernment,) ſhall be duly applied towards Payment and Relief of the ſaid</hi> Orphans <hi>and others. And that if any of the ſaid</hi> Orphans, <hi>or others, can make any diſcovery un<g ref="char:EOLhyphen"/>to the ſaid</hi> Committee, <hi>how any part of the ſaid Revenues may improved, they ſhall be recompenced for the ſame, propotionable to ſuch Diſcovery.)</hi> Is not only in con<g ref="char:EOLhyphen"/>tradiction to that of the 17th. of <hi>January,</hi> but is in no ſort an Anſwer to the ſaid Third Propoſal, or your Lordſhips Promiſe. The <hi>Orphans</hi> expected that upon the ſenſe, and Condition, and Debt, and Conſideration, and Inſpecting in your Prin<g ref="char:EOLhyphen"/>ted Order mentioned, your Lordſhip would peremptorily have ordered the In<g ref="char:EOLhyphen"/>ſpection ſo long laboured for.— That the <hi>Quantum</hi> of the neceſſary Charge of the Government ſhould have been therein inſerted.— That you would firmly have reſolved and declared, that you would for the Honour of your Court, and the ſa<g ref="char:EOLhyphen"/>tisfaction of the World, have at leaſt experimented the offer, which though your Lordſhip terms but an Inſinuation, you well know 'tis propoſed to be made good by Security above all exception.— They expected you ſhould have ſaid that 9000 <hi>
+                     <abbr>l.</abbr> per An'</hi> had been exceedingly too much for the Orphans to allow to the Charge of that Government, by the Male-Adminiſtration whereof, ſo many Hundreds of them have been Ruin'd, and at preſent want Bread.— But they expected not, that by the recompence you promiſe, you would give a half part to a Diſcoverer, when but a Third is asked you.— Nor that you deſigned the Second part of the <hi>Cole-Du<g ref="char:EOLhyphen"/>ty-Concealment,</hi> and give a prodigious Reward for Defrauding the Orphans.</p>
+               <p>The Orphans however are not ſingly diſappointed: Mr. <hi>Reading</hi> expected that after his having laboured day and night in this admirable Undertaking, and been at great Charge, and ſuffered great Damage thereby, and never received more than a 40 <abbr>
+                     <hi>s.</hi>
+                  </abbr> Fee, your Lordſhip and all about you, would at leaſt have recom<g ref="char:EOLhyphen"/>penced him with Thanks, and that the lean Encouragement which your firſt Order gave him, would not have been omitted in that of the <hi>Gazette.</hi> Yet in<g ref="char:EOLhyphen"/>ſtead thereof, and in Ill performance of the kind profeſſions your Lordſhip made him, ſome about the Chair, to gratifie your tranſport againſt him, becauſe he Friendly adviſed your Lordſhip to give the Moneys for the late Vacancies among the periſhing Orphans, by way of Expiation, have publickly told the Orphans, that Mr. <hi>Reading</hi> had deluded and inveigled them, that your Lordſhip had diſ<g ref="char:EOLhyphen"/>carded him, and threatnened, in caſe they Subſcribed to his Propoſals, they ſhould never receive 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> And reproached, for his Sufferings in the late days, of Perjury and Perſecution, and for his being unrewarded ſince.</p>
+               <p>Would your Lordſhip and they have been ſo juſt as to have declared at the ſame time that Mr. <hi>Reading</hi> was offered great Sums, and Preferments to have ſhed Royal and Innocent Blood by Swearing falſely; and that he rather choſe to be Ruin'd here, than to wrong his Conſcience, and had your Lordſhip Publiſhed the follow<g ref="char:EOLhyphen"/>ing Addreſs of the Houſe of <hi>Commons</hi> in the ſame <hi>Gazette,</hi> Mr. <hi>Reading</hi> who is a very ill Advocate for himſelf, would have ſilently ſubmitted to his being diſregarded for his Indefatigableneſs in the Service of the Crown, he valuing him<g ref="char:EOLhyphen"/>ſelf upon having done his Duty, and the Feaſt of a good Conſcience, while others drink Muſcadine and Orphans, and daily devour Widows and Houſes at their ſe<g ref="char:EOLhyphen"/>cond Courſes.</p>
+               <p>The Addreſs was thus,
+<floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <opener>
+                           <dateline>
+                              <date>8 <hi>April,</hi> 1679.</date>
+                           </dateline>
+                           <salute>May it pleaſe Your MAJESTY,</salute>
+                        </opener>
+                        <p>WE Your Majeſties moſt Dutiful and Loyal Subjects, the <hi>Commons</hi> in Parlia<g ref="char:EOLhyphen"/>ment Aſſembled, having according to our Duty, made enquiry into the Dam<g ref="char:EOLhyphen"/>nable and Helliſh Plot against Your Majeſty's Sacred Perſon and Government, and for the Extirpation of the <hi>Proteſtant</hi> Religion, have upon Examination, diſcovered that <hi>Nat. Reading</hi> 
+                           <abbr>Eſq</abbr> hath Induſtriouſly, and againſt the Duty of a Loyal Subject, held fre<g ref="char:EOLhyphen"/>quent
+<pb n="16" facs="tcp:136908:9" rendition="simple:additions"/>
+Correſpondences with ſeveral Lords and other Perſons that ſtand Committed for High Treaſon. And alſo uſed his utmoſt Endeavours to prevent and ſuppreſs Your Majesty's Evidence: And as much as in him lay, to ſtifle the Diſcovery of the ſaid Plot; and thereby to render the ſame fictitious and of no reallity. And by ſuch undue means to prevent the Malefactors from coming to Juſtice. Therefore We Your ſaid <hi>Commons,</hi> do most humbly beſeech Your Majeſty, that You will be graciouſly pleaſed to Command that a Commiſſion of <hi>Oyer</hi> and <hi>Terminer</hi> do imediately iſſue forth for the Tryal of the ſaid <hi>Nathaniel Reading,</hi> that ſo he may be brought to publick Juſtice.</p>
+                     </body>
+                  </floatingText>
+               </p>
+               <p>
+                  <hi>Mr.</hi> Reading <hi>Humbly Propoſeth on the Behalf of the</hi> Orphans.</p>
+               <p n="1">1ſt. That the Leaſe which you have ordered to be made for the Office of <hi>Out-Roper</hi> may not be Executed, the Orphans being ready to allow three full fourth parts during the whole Term for the ſame, which is muh more than Mr. <hi>Murry</hi> offers you.</p>
+               <p n="2">2dly. That no new Leaſe be granted, but to the Orphans, they allowing the value for the ſame. And that all Vacancies of Places which you pretend to be in your Gift, may for the future be offer'd to the Orphans, they being duly quali<g ref="char:EOLhyphen"/>fied, and allowing valuably for the ſame.</p>
+               <p n="3">3dly. That the many Thouſands of Pounds which you are laying out about <hi>Dowgate, Leyſtall</hi> and other matters equally inconſiderable, while your <hi>Chamberlain</hi> declares to the Orphans, he hath not 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in Caſh, may be apply'd to their Re<g ref="char:EOLhyphen"/>lief— That your Lordſhip would afcertain the neceſſary Charges of the City Go<g ref="char:EOLhyphen"/>vernment, and that you would joyn in Petitioning His Majeſty, that He would Graciouſly pleaſe to Grant His Commiſſion to the Perſons undernamed, or ſuch others as He ſhall approve of for the due managing of all Profits, any ways ariſing by His Letters Patents to your Tuſtees; and out of the ſame to pay ſuch yearly Sum into your Chamber, as His Royal Wiſdom ſhall direct: And that the remainder may be applied for the Payment of the ſaid Orphans and Creditors.</p>
+               <list>
+                  <head>On the Behalf of His MAJETY.</head>
+                  <item>The Right Honourable</item>
+                  <item>The <hi>Lord Chancellor.</hi>
+                  </item>
+                  <item>The Earl of <hi>Sunderland.</hi>
+                  </item>
+                  <item>The Earl of <hi>Caſtlemain.</hi>
+                  </item>
+                  <item>Sir <hi>Nicholas Butler.</hi>
+                  </item>
+                  <item>Collonel <hi>James Porter.</hi>
+                  </item>
+                  <item>The King's <hi>Vice-Chamberl.</hi> and</item>
+                  <item>
+                     <hi>Robert Brent</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+               <list>
+                  <head>On the Behalf of the CITY.</head>
+                  <item>Sir <hi>John Shorter.</hi>
+                  </item>
+                  <item>Sir <hi>Bartholomew Shore.</hi>
+                  </item>
+                  <item>Sir <hi>Humphry Edwin.</hi>
+                  </item>
+                  <item>Mr. Alderman <hi>Mawſon.</hi>
+                  </item>
+                  <item>Mr. Alderm. <hi>St. Aumand.</hi>
+                  </item>
+                  <item>Sir <hi>John Parſons.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>On the Behalf of the ORPHANS</head>
+                  <item>Sir <hi>William Turner.</hi>
+                  </item>
+                  <item>Sir <hi>William Pritchard.</hi>
+                  </item>
+                  <item>Sir <hi>Peter Rich.</hi>
+                  </item>
+                  <item>Alderman <hi>Hern.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Vernon.</hi>
+                  </item>
+                  <item>Sir <hi>Henry Tulſe.</hi>
+                  </item>
+                  <item>Sir <hi>William Ruſſel.</hi>
+                  </item>
+                  <item>Alderman <hi>Duncombe.</hi>
+                  </item>
+                  <item>Mr. <hi>George Finch.</hi>
+                  </item>
+                  <item>Mr. <hi>Percival Gilborn.</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Farmyn.</hi>
+                  </item>
+                  <item>Mr. <hi>Francis Chamberlain.</hi>
+                  </item>
+                  <item>Mr. <hi>Peter Pickering.</hi>
+                  </item>
+                  <item>Mr. <hi>Ralph Box.</hi>
+                  </item>
+                  <item>Mr. <hi>Joſeph Bowles.</hi>
+                  </item>
+                  <item>Mr. <hi>Robert Midgly.</hi>
+                  </item>
+                  <item>Mr. <hi>Deputy Carpenter.</hi>
+                  </item>
+                  <item>Mr. <hi>Joſeph Smart.</hi>
+                  </item>
+                  <item>Mr. <hi>John Short.</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Langhorn.</hi>
+                  </item>
+                  <item>Mr. <hi>Michael Warring.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Lastly,</hi> If your Lordſhip will well conſider the Judgment againſt your <hi>Charter.</hi> And be content with the Governing part under His Majeſty. And take from the Orphans that large Allowance fer it; and repay them what hath been pocketed contrary to Truſt. Mr. <hi>Reading</hi> doubts not but ſo to improve His Majeſty's Chari<g ref="char:EOLhyphen"/>ty to the Orphans, that the greateſt number of them may be pay'd within a very ſhort time.</p>
+               <p>Should not your Lordſhip oppoſe this Innocent Experiment, you would make this 88 happily remarkable, and avert that Deſolation which otherwiſe muſt over<g ref="char:EOLhyphen"/>whealm this Flouriſhing City, and which will not be in the power of the Ligiſlature to Repair. <hi>For the Crys of the Oppreſſed increaſe daily, they are gone up, and their Avenger is Mighty.</hi>
+               </p>
+               <epigraph>
+                  <q>Bene facere, Et male Audire, Regium est.</q>
+               </epigraph>
+               <closer>
+                  <signed>NATHANIEL READING.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
